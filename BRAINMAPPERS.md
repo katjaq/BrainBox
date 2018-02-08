@@ -25,7 +25,7 @@ Volume:             445 823 mm3
 Name:               **katja**  
 GitHub:             @katjaq  
 Species:            Bottlenose dolphin  
-Slice numbers:      axial (cor) 112  
+Slice numbers:      axial (cor) 111–114, sag 253–379  
 Length:             mm  
 Volume:             509 368 mm3  
 
