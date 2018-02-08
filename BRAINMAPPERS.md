@@ -6,7 +6,7 @@ Here, we are segmenting an amazingly folded [**dolphin brain**](http://brainbox.
 
 **Our BrainMapper team**
 
-current Volume segmented: **509 368 mm3** (please update! :D)
+current Volume segmented: **445 823 mm3** (please update! :D)
 
 Name:               **name**  
 GitHub:             @  
@@ -15,17 +15,18 @@ Slice numbers:      axial (cor) __
 Length:             __ mm  
 Volume:             __ mm3  
 
+Name:               **faruk**  
+GitHub:             @ofgulban  
+Species:            Bottlenose dolphin  
+Slice numbers:      all  
+Length:             mm  
+Volume:             445 823 mm3
 
 Name:               **katja**  
 GitHub:             @katjaq  
 Species:            Bottlenose dolphin  
 Slice numbers:      axial (cor) 112  
 Length:             mm  
-Volume:             509368 mm3  
+Volume:             509 368 mm3  
 
-Name:               **faruk**  
-GitHub:             @ofgulban  
-Species:            Bottlenose dolphin  
-Slice numbers:      all ?  
-Length:             ?? mm  
-Volume:             ?? mm3
+
